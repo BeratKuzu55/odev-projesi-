@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1608881559 source:c:\users\berat\desktop\c dersleri btu\odev_projesi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<math.h>
+
